@@ -15,7 +15,7 @@ Avant de contribuer, veuillez lire notre [Code de Conduite](https://github.com/F
 
 ### Branches
 
-- **Création de Branches :** Créez une nouvelle branche pour chaque issue. Nommez la branche de manière descriptive, par exemple : `feature/<name>` ou `bugfix/<name>`.
+- **Création de Branches :** Créez une nouvelle branche pour chaque issue. Nommez la branche de manière descriptive, par exemple : `feature/<name>` ou `fix/<name>`.
 
 ### Commits
 
