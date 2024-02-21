@@ -31,4 +31,4 @@ Avant de contribuer, veuillez lire notre [Code de Conduite](lien_vers_le_code_de
 
 - **Utilisation de Git Flow :** Suivez le Git Flow standard avec les branches `main`, `develop`, et des branches de fonctionnalités.
 
-![Alt text](image.png)
+![Alt text](https://www.bitbull.it/blog/git-flow-come-funziona/gitflow-1.png)
