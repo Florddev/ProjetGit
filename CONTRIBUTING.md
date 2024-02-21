@@ -4,7 +4,7 @@ Nous sommes ravis que vous envisagiez de contribuer à notre projet de soutenanc
 
 ## Code de Conduite
 
-Avant de contribuer, veuillez lire notre [Code de Conduite](lien_vers_le_code_de_conduite). En participant, vous acceptez de respecter ce code.
+Avant de contribuer, veuillez lire notre [Code de Conduite](https://github.com/Florddev/ProjetGit/blob/develop/CODE_OF_CONDUCT.md). En participant, vous acceptez de respecter ce code.
 
 ## Processus de Contribution
 
